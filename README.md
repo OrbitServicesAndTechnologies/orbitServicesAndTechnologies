@@ -4,15 +4,22 @@
 
 ### **We Build. You Dominate.**
 
-### 🌐 **Official Website**
-# **https://orbitservices.tech**
 
 <br>
 
-[![Website](https://img.shields.io/badge/🌐_Visit_Website-orbitservices.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://orbitservices.tech)
-[![Book Appointment](https://img.shields.io/badge/📅_Book_Appointment-Live-success?style=for-the-badge)](https://orbitservices.tech/appointment-booking.html)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](#)
+[![Website](https://img.shields.io/badge/🌐_Website-orbitservices.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://orbitservices.tech)
+[![Instagram](https://img.shields.io/badge/Instagram-@orbitservicess-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/orbitservicess)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orbit_Services-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/orbit-services-2026)
+[![X](https://img.shields.io/badge/X-@orbitservicess-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/orbitservicess)
+[![Email](https://img.shields.io/badge/Email-admin.orbitservices@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin.orbitservices@gmail.com)
+
+<br>
+
+**Premium Digital Solutions • AI Automation • Business Websites • Custom Software • Business Growth**
+
+*"Building modern digital experiences for businesses worldwide."*
+
+</div>
 
 <br>
 
@@ -33,23 +40,6 @@ We help businesses transform digitally through high-performance websites, AI-pow
 Our mission is simple:
 
 > **Build world-class digital products that help businesses grow faster, smarter, and more efficiently.**
-
----
-
-# 🌍 Official Website
-
-## 🔗 https://orbitservices.tech
-
-Visit our website to explore:
-
-- 🌐 Business Website Development
-- 🤖 AI Automation Solutions
-- 💼 Business Consultation
-- 📅 Online Appointment Booking
-- 🎨 UI/UX Design
-- 📂 Portfolio
-- 🚀 Startup Solutions
-- 📞 Contact Information
 
 ---
 
