@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@orbitservicess-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/orbitservicess)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Orbit_Services-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/orbit-services-2026)
 [![X](https://img.shields.io/badge/X-@orbitservicess-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/orbitservicess)
-[![Email](https://img.shields.io/badge/Email-admin.orbitservices@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin.orbitservices@gmail.com)
+[![Email](https://img.shields.io/badge/Email-support.orbitservices@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.orbitservices@gmail.com)
 
 <br>
 
